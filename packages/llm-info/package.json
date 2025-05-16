@@ -12,7 +12,7 @@
   "author": "Nate Sesti and Ty Dunn",
   "license": "Apache-2.0",
   "devDependencies": {
-    "typescript": "^5.5.2"
+    "typescript": "^5.8.3"
   },
   "dependencies": {}
 }
