@@ -29,7 +29,7 @@
   "devDependencies": {
     "@biomejs/biome": "1.6.4",
     "@types/follow-redirects": "^1.14.4",
-    "@types/jest": "^29.5.12",
+    "@types/jest": "^30.0.0",
     "@types/uuid": "^9.0.8",
     "@vercel/ncc": "^0.38.1",
     "esbuild": "0.19.11",
