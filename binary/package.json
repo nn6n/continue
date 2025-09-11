@@ -47,7 +47,7 @@
     "mac-ca": "^2.0.3",
     "ncp": "^2.0.0",
     "node-fetch": "^3.3.2",
-    "posthog-node": "^3.6.3",
+    "posthog-node": "^5.0.0",
     "system-ca": "^1.0.2",
     "uuid": "^9.0.1",
     "vectordb": "^0.4.20",
