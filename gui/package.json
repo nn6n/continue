@@ -37,7 +37,7 @@
     "core": "file:../core",
     "dompurify": "^3.0.6",
     "downshift": "^7.6.0",
-    "lodash": "^4.17.21",
+    "lodash": "^4.17.23",
     "minisearch": "^7.0.2",
     "mustache": "^4.2.0",
     "onigasm": "^2.2.5",
